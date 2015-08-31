@@ -3,11 +3,6 @@
     "GoVersion": "go1.4.2",
     "Deps": [
         {
-            "ImportPath": "github.com/go-redis/redis",
-            "Comment": "v3.2.6",
-            "Rev": "152c38c687bfd75a1e6faa05944415cfe69c5c7b"
-        },
-        {
             "ImportPath": "github.com/jessevdk/go-flags",
             "Rev": "1acbbaff2f347c412a0c7884873bd72cc9c1f5b4"
         }
