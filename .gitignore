@@ -1,0 +1,33 @@
+# general
+.#*
+._*
+.DS_Store
+.buildinfo
+*.bak
+*~
+*.setting
+*.pyc
+*.odem
+*.ws
+*.dtd
+*.log
+.gradle/
+build/
+target/
+
+# intellij idea
+*.iml
+*.ipr
+*.iws
+.idea/
+classes/
+
+# eclipse
+.project
+.classpath
+.settings/
+out/
+
+# vagrant
+.vagrant
+

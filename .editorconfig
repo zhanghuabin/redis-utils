@@ -1,0 +1,12 @@
+root = true
+
+[*]
+indent_style                        = space
+indent_size                         = 4
+insert_final_newline                = true
+charset                             = utf-8
+trim_trailing_white_space_on_save   = true
+draw_white_space                    = all
+
+[*.{clj,rb,py}]
+indent_size = 2
